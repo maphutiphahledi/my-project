@@ -11,4 +11,4 @@ A simple project I created while learning Git & Github
 Open index.html file in your browser
 
 ## Contributers 
-Added from the clone
+Added from the clone from your teammate
